@@ -3,7 +3,7 @@
 🚀 **Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | Innovator**  
 
 ### 🌟 About Me  
-- **Co-founder** of [ParkinToday](#) – Transforming parking spaces with smart technology.  
+- **Co-founder** of [ParkinToday](https://parkin-olive.vercel.app/) – Transforming parking spaces with smart technology.  
 - **Team Captain** of the **Electric Four-Wheeler Design Club** (SAE India), leading innovation in EV design.  
 - Passionate about **building smart solutions** that bridge the gap between hardware and software.  
 
