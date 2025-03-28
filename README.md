@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Zenith Joshua!
+# 👋 I'm Zenith Joshua!
 
-🚀 **Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | **  
+🚀 ** Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | **  
 
 🚀 Leadership & Achievements
 
