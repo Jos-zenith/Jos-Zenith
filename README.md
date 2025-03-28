@@ -1,8 +1,12 @@
 # 👋 Hey, I'm Zenith Joshua!
 
-🚀 **Passionate Developer | Embedded Systems Enthusiast | Data Science Explorer**  
+🚀 **Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | **  
 
-I love building interactive web applications, exploring embedded systems, and working with data science projects. I also enjoy designing UI/UX and working with CAD software for engineering designs.
+🚀 Leadership & Achievements
+
+Co-founder of ParkinToday – A digital parking lot service startup.
+
+Team Captain of the Electric Four-Wheeler Design Club (SAE India).
 
 ## 🛠️ Technologies & Skills  
 
@@ -17,9 +21,7 @@ I love building interactive web applications, exploring embedded systems, and wo
 ### 🔧 Embedded Systems  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)  
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white&style=flat)  
-![ARM Cortex](https://img.shields.io/badge/-ARM_Cortex-0091BD?logo=arm&logoColor=white&style=flat)  
-
-### 📊 Data Science  
+![ARM Cortex](https://img.shields.io/badge/-ARM_Cortex-0091BD?logo=arm&logoColor=white&style=flat) 
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)  
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=google-colab&logoColor=white&style=flat)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
