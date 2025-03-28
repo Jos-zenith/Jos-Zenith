@@ -1,12 +1,12 @@
-# 👋 I'm Zenith Joshua!
+## 👋 I'm Zenith Joshua!  
 
-🚀 ** Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | **  
+🚀 **Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | Innovator**  
 
-🚀 Leadership & Achievements
+### 🌟 About Me  
+- **Co-founder** of [ParkinToday](#) – Transforming parking spaces with smart technology.  
+- **Team Captain** of the **Electric Four-Wheeler Design Club** (SAE India), leading innovation in EV design.  
+- Passionate about **building smart solutions** that bridge the gap between hardware and software.  
 
-Co-founder of ParkinToday – A digital parking lot service startup.
-
-Team Captain of the Electric Four-Wheeler Design Club (SAE India).
 
 ## 🛠️ Technologies & Skills  
 
