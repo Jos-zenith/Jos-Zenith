@@ -47,9 +47,6 @@ core_traits:
 |---|---|---|---|---|
 | [skystore](https://github.com/Jos-zenith/skystore) | Repository | Java | ![](https://img.shields.io/badge/UNDER__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
 | [uzhavan](https://github.com/Jos-zenith/uzhavan) | Agri-Tech | TypeScript | ![](https://img.shields.io/badge/STABLE-00FF41?style=flat-square&labelColor=0D1117) | ✅ Stable |
-| [engineerfit_](https://github.com/Jos-zenith/engineerfit_) | Web App | TypeScript | ![](https://img.shields.io/badge/OPTIMIZING-00cfff?style=flat-square&labelColor=0D1117) | 🔵 Active |
-| [portfolio](https://github.com/Jos-zenith/portfolio) | Personal Site | TypeScript | ![](https://img.shields.io/badge/ONLINE-7b61ff?style=flat-square&labelColor=0D1117) | 🟣 Live |
-| [panjaayathu](https://github.com/Jos-zenith/Panjaayathu_UI) | Mental Health | TypeScript | ![](https://img.shields.io/badge/IN__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
 | [phishshield](https://github.com/Jos-zenith/phishshield) | Cybersecurity | TypeScript | ![](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0D1117) | ✅ Online |
 | [soilsense](https://github.com/Jos-zenith/soilsense) | Agri-IoT | Vue | ![](https://img.shields.io/badge/ITERATING-00cfff?style=flat-square&labelColor=0D1117) | 🔵 Active |
 | [zero-touch](https://github.com/Jos-zenith/zero-touch) | Automation | Python | ![](https://img.shields.io/badge/UNDER__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
@@ -101,25 +98,6 @@ spoken_languages:
 
 </div>
 
-<div align="left">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jos-zenith&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=f0a500&currStreakLabel=aaffbb&sideLabels=aaffbb&dates=00cc33)](https://github.com/Jos-zenith)
-
-</div>
-
----
-
-## 🏆 `[ACHIEVEMENTS]` — SYSTEM BADGES
-
-<div align="left">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jos-zenith&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/Jos-zenith)
-
-</div>
-
-```
-[ PULL-SHARK ]  [ YOLO ]  [ PAIR-EXTRAORDINAIRE ]  [ QUICKDRAW ]
-```
 
 ---
 
