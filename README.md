@@ -1,48 +1,207 @@
-## 👋 I'm Zenith Joshua!  
+<!-- ZENITH JOSHUA :: GITHUB PROFILE README :: SYS.ADMIN TERMINAL EDITION -->
 
-🚀 **Entrepreneur | Passionate Developer | Embedded Systems Enthusiast | Innovator**  
+<div align="center">
 
-### 🌟 About Me  
-- **Co-founder** of [ParkinToday](https://parkin-olive.vercel.app/) – Transforming parking spaces with smart technology.  
-- **Team Captain** of the **Electric Four-Wheeler Design Club** (SAE India), leading innovation in EV design.  
-- Passionate about **building smart solutions** that bridge the gap between hardware and software.  
+```
+╔══════════════════════════════════════════════════════════════════╗
+║            📟  SYS.ADMIN TERMINAL  ::  ZENITH JOSHUA            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+system...;%3E+Loading+Zenith+Joshua...;%3E+B.Tech+IT+%7C+LICET+%7C+Chennai+Node;%3E+Founder+%7C+IoT+Engineer+%7C+EV+Lead;%3E+STATUS%3A+INNOVATING+%5B+ONLINE+%5D)
 
-## 🛠️ Technologies & Skills  
+<br>
 
-### 🎨 Web Development  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+[![Status](https://img.shields.io/badge/STATUS-INNOVATING-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117)](https://github.com/Jos-zenith)
+[![Location](https://img.shields.io/badge/LOCATION-CHENNAI__NODE-00FF41?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0D1117)](https://github.com/Jos-zenith)
+[![Pronouns](https://img.shields.io/badge/PRONOUNS-HE%2FHIM-00FF41?style=for-the-badge&labelColor=0D1117)](https://github.com/Jos-zenith)
 
-### 🔧 Embedded Systems  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)  
-![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white&style=flat)  
-![ARM Cortex](https://img.shields.io/badge/-ARM_Cortex-0091BD?logo=arm&logoColor=white&style=flat) 
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)  
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=google-colab&logoColor=white&style=flat)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
+</div>
 
-### 💻 Programming  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-282C34?logo=data&logoColor=white&style=flat)  
+---
 
-### 🎨 Designing  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
+## 🟢 `[SYS.OVERVIEW]` — SYSTEM BOOT LOG
 
-### 🏗️ CAD Software  
-![NX CAD](https://img.shields.io/badge/-NX%20CAD-005F9E?logo=siemens&logoColor=white&style=flat)  
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-DA291C?logo=autodesk&logoColor=white&style=flat)  
+```yaml
+identity:
+  name:       "Zenith Joshua"
+  role:       "Founder × 2 | IoT Engineer | EV Lead | Full-Stack Developer"
+  location:   "Chennai, Tamil Nadu, India"
+  education:  "B.Tech Information Technology @ LICET (2023–2027)"
+  mission:    "Bridging the gap between hardware and software through
+               smart, scalable solutions."
 
+core_traits:
+  - ⚡ EV Lead     → Team Captain, Team Turbonites LICET (SAE India)
+  - 🛠️ Maker       → ARM Cortex, ESP32, code-meets-copper engineering
+  - 🚀 Founder     → Panjaayathu (mental health) & ParkinToday (smart parking)
+  - 📊 Analyst     → Data pipelines, dashboards, behavioral insights
+  - 🤖 AI Builder  → Applied AI, agentic systems, real-world integrations
+```
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zenith-joshua-7178a623a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/Jos-Zenith)
+---
+
+## 💾 `[LIVE_FEED]` — CURRENT PROJECTS
+
+| `PROJECT` | `TYPE` | `STACK` | `STATUS` | `UPTIME` |
+|---|---|---|---|---|
+| [skystore](https://github.com/Jos-zenith/skystore) | Repository | Java | ![](https://img.shields.io/badge/UNDER__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
+| [uzhavan](https://github.com/Jos-zenith/uzhavan) | Agri-Tech | TypeScript | ![](https://img.shields.io/badge/STABLE-00FF41?style=flat-square&labelColor=0D1117) | ✅ Stable |
+| [engineerfit_](https://github.com/Jos-zenith/engineerfit_) | Web App | TypeScript | ![](https://img.shields.io/badge/OPTIMIZING-00cfff?style=flat-square&labelColor=0D1117) | 🔵 Active |
+| [portfolio](https://github.com/Jos-zenith/portfolio) | Personal Site | TypeScript | ![](https://img.shields.io/badge/ONLINE-7b61ff?style=flat-square&labelColor=0D1117) | 🟣 Live |
+| [panjaayathu](https://github.com/Jos-zenith/Panjaayathu_UI) | Mental Health | TypeScript | ![](https://img.shields.io/badge/IN__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
+| [phishshield](https://github.com/Jos-zenith/phishshield) | Cybersecurity | TypeScript | ![](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0D1117) | ✅ Online |
+| [soilsense](https://github.com/Jos-zenith/soilsense) | Agri-IoT | Vue | ![](https://img.shields.io/badge/ITERATING-00cfff?style=flat-square&labelColor=0D1117) | 🔵 Active |
+| [zero-touch](https://github.com/Jos-zenith/zero-touch) | Automation | Python | ![](https://img.shields.io/badge/UNDER__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
+| [intellect](https://github.com/Jos-zenith/intellect) | AI/ML | Python | ![](https://img.shields.io/badge/IN__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
+| [agentic-honey-pot](https://github.com/Jos-zenith/Agentic-Honey-Pot) | CyberSec | TypeScript | ![](https://img.shields.io/badge/RESEARCH-f0a500?style=flat-square&labelColor=0D1117) | 🔬 Lab |
+
+---
+
+## 🛠️ `[CORE_SKILLS]` — TERMINAL MANIFEST
+
+```yaml
+embedded_systems:
+  microcontrollers: [Arduino, ESP32, ARM Cortex-M]
+  proficiency:      "████████████ 100%"   # Full-Stack IoT hardware/firmware
+
+  cad_tools:        [NX, AutoCAD]
+  proficiency:      "██████████░░  80%"   # Mechanical & PCB design
+
+software_architecture:
+  languages:        [Python, C/C++, Java, SQL, HTML/CSS/JavaScript]
+  web_stack:        [React, Next.js, TypeScript, Flutter, Vue]
+  ml_tools:         [Jupyter, Google Colab, Kaggle, TensorFlow]
+  devops:           [Git, Linux, REST APIs, Cloud IoT Platforms]
+  methodology:      [Agile, Scrum, Sprint Planning, System Design]
+
+domains:
+  - IoT & Embedded Systems
+  - Full-Stack Web Development
+  - Data Analytics & Pipelines
+  - Scalable Architecture
+  - Cybersecurity Fundamentals
+  - AI Integration & Agentic Systems
+
+spoken_languages:
+  English: "Professional"
+  Tamil:   "Native"
+  German:  "Elementary (A1)"
+```
+
+---
+
+## 📊 `[ANALYTICS]` — AUTO-SYNC DATA
+
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jos-zenith&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=aaffbb&ring_color=00FF41" alt="Zenith's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-zenith&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=aaffbb" alt="Top Languages" />
+
+</div>
+
+<div align="left">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jos-zenith&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=f0a500&currStreakLabel=aaffbb&sideLabels=aaffbb&dates=00cc33)](https://github.com/Jos-zenith)
+
+</div>
+
+---
+
+## 🏆 `[ACHIEVEMENTS]` — SYSTEM BADGES
+
+<div align="left">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jos-zenith&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/Jos-zenith)
+
+</div>
+
+```
+[ PULL-SHARK ]  [ YOLO ]  [ PAIR-EXTRAORDINAIRE ]  [ QUICKDRAW ]
+```
+
+---
+
+## 💼 `[EXPERIENCE_LOG]` — CAREER TIMELINE
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  2025.10 → NOW   Founder & Full-Stack Dev  @ Panjaayathu       │
+│                  Mental health platform targeting 1:7500         │
+│                  psychologist gap in Indian universities.        │
+├─────────────────────────────────────────────────────────────────┤
+│  2024.09 → 2026  Co-Founder & IoT Engineer @ ParkinToday       │
+│                  Real-time smart parking with IoT sensor nets,   │
+│                  cloud backend, and mobile interface.            │
+├─────────────────────────────────────────────────────────────────┤
+│  2024.02 → NOW   Team Captain & Mentor     @ Turbonites LICET  │
+│                  SAE India EV four-wheeler — Agile lead for     │
+│                  11+ months, embedded systems mentorship.        │
+├─────────────────────────────────────────────────────────────────┤
+│  2025.12 → 2026  Data Analytics Intern     @ Happieloop        │
+│                  Python/SQL dashboards & automated pipelines.    │
+├─────────────────────────────────────────────────────────────────┤
+│  2025.06 → 07    AI & Emerging Tech Intern @ Edunet Foundation │
+│                  Applied AI capstone — real-world integration.   │
+├─────────────────────────────────────────────────────────────────┤
+│  2026.03 → NOW   Core Team Member          @ Team STARC        │
+│                  Advanced system design & R&D for competitions.  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📡 `[NETWORK]` — CONNECT WITH THE NODE
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Fzenith--joshua--7178a623a-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://www.linkedin.com/in/zenith-joshua-7178a623a)
+[![GitHub](https://img.shields.io/badge/GITHUB-Jos--zenith-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/Jos-zenith)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9037--5408-00FF41?style=for-the-badge&logo=orcid&logoColor=black&labelColor=0D1117)](https://orcid.org/0009-0005-9037-5408)
+[![Email](https://img.shields.io/badge/EMAIL-joshuajzenith%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:joshuajzenith@gmail.com)
+
+</div>
+
+---
+
+## 📜 `[CERTS_DB]` — VERIFIED CREDENTIALS
+
+```yaml
+certifications:
+  - name:     "Foundations of Cybersecurity"
+    issuer:   "Google"
+    status:   "[VERIFIED ✓]"
+
+  - name:     "Python 3.x Programming"
+    status:   "[VERIFIED ✓]"
+
+  - name:     "Java Basics"
+    status:   "[VERIFIED ✓]"
+
+  - name:     "SQL Basics"
+    status:   "[VERIFIED ✓]"
+
+  - name:     "AI Impact Summit Buildathon"
+    type:     "Competitive"
+    status:   "[COMPLETED ✓]"
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║    ZENITH_JOSHUA :: LICET :: CHENNAI_NODE :: CLASS OF 2027      ║
+║    34 REPOS INDEXED  ·  STATUS: ALL SYSTEMS NOMINAL  ·  🟢      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jos-zenith&style=for-the-badge&color=00FF41&labelColor=0D1117&label=NODES_VISITED)
+
+*"The best code is where hardware meets software — and both actually work."*
+
+</div>
+
+<!-- EOF :: ZENITH_JOSHUA_README_v2.0 -->
