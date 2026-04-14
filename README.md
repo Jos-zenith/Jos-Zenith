@@ -25,7 +25,7 @@
 ```yaml
 identity:
   name:       "Zenith Joshua"
-  role:       "Founder × 2 | IoT Engineer | EV Lead | Full-Stack Developer"
+  role:       "Founder × 2 | IoT Engineer | EV Lead"
   location:   "Chennai, Tamil Nadu, India"
   education:  "B.Tech Information Technology @ LICET (2023–2027)"
   mission:    "Bridging the gap between hardware and software through
@@ -83,7 +83,7 @@ domains:
 spoken_languages:
   English: "Professional"
   Tamil:   "Native"
-  German:  "Elementary (A1)"
+  German:  "Elementary (A2)"
 ```
 
 ---
@@ -177,8 +177,6 @@ certifications:
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jos-zenith&style=for-the-badge&color=00FF41&labelColor=0D1117&label=NODES_VISITED)
-
-*"The best code is where hardware meets software — and both actually work."*
 
 </div>
 
