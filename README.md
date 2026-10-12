@@ -1,183 +1,160 @@
-<!-- ZENITH JOSHUA :: GITHUB PROFILE README :: SYS.ADMIN TERMINAL EDITION -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║            📟  SYS.ADMIN TERMINAL  ::  ZENITH JOSHUA            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+# Zenith Joshua J
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+system...;%3E+Loading+Zenith+Joshua...;%3E+B.Tech+IT+%7C+LICET+%7C+Chennai+Node;%3E+Founder+%7C+IoT+Engineer+%7C+EV+Lead;%3E+STATUS%3A+INNOVATING+%5B+ONLINE+%5D)
+### Product-minded Engineer · Applied AI/ML · IoT & Systems
 
-<br>
+**I build technology around real problems — then test the assumptions behind it.**
 
-[![Status](https://img.shields.io/badge/STATUS-INNOVATING-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117)](https://github.com/Jos-zenith)
-[![Location](https://img.shields.io/badge/LOCATION-CHENNAI__NODE-00FF41?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0D1117)](https://github.com/Jos-zenith)
-[![Pronouns](https://img.shields.io/badge/PRONOUNS-HE%2FHIM-00FF41?style=for-the-badge&labelColor=0D1117)](https://github.com/Jos-zenith)
+[Portfolio](https://ejoszenith.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/zenithjoshua-7178a623a) · [GitHub](https://github.com/Jos-zenith)
 
 </div>
 
 ---
 
-## 🟢 `[SYS.OVERVIEW]` — SYSTEM BOOT LOG
+## About
 
-```yaml
-identity:
-  name:       "Zenith Joshua"
-  role:       "Founder × 2 | IoT Engineer | EV Lead"
-  location:   "Chennai, Tamil Nadu, India"
-  education:  "B.Tech Information Technology @ LICET (2023–2027)"
-  mission:    "Bridging the gap between hardware and software through
-               smart, scalable solutions."
+I'm an Information Technology undergraduate at **Loyola-ICAM College of Engineering and Technology, Chennai**, interested in the space between **product decisions and engineering execution**.
 
-core_traits:
-  - ⚡ EV Lead     → Team Captain, Team Turbonites LICET (SAE India)
-  - 🛠️ Maker       → ARM Cortex, ESP32, code-meets-copper engineering
-  - 🚀 Founder     → Panjaayathu (mental health) & ParkinToday (smart parking)
-  - 📊 Analyst     → Data pipelines, dashboards, behavioral insights
-  - 🤖 AI Builder  → Applied AI, agentic systems, real-world integrations
-```
+I enjoy taking a problem from user research and problem framing through system design, implementation, and evaluation. My work spans web applications, applied machine learning, embedded systems, and early-stage product experiments.
 
----
+- 🧭 **Product mindset:** user research, problem validation, requirements, metrics, and iterative delivery.
+- 🛠️ **Builder mindset:** web products, data pipelines, edge-oriented systems, and IoT prototypes.
+- 🔬 **Research mindset:** reproducible experiments, clear baselines, explicit limitations, and evidence over hype.
+- 🤝 **Team mindset:** multidisciplinary collaboration, student-led building, and technical mentoring.
 
-## 💾 `[LIVE_FEED]` — CURRENT PROJECTS
+> My principle: a convincing demo is a starting point. Reliability, measurable value, and validation in the real environment are what make a product credible.
 
-| `PROJECT` | `TYPE` | `STACK` | `STATUS` | `UPTIME` |
-|---|---|---|---|---|
-| [skystore](https://github.com/Jos-zenith/skystore) | Repository | Java | ![](https://img.shields.io/badge/UNDER__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
-| [uzhavan](https://github.com/Jos-zenith/uzhavan) | Agri-Tech | TypeScript | ![](https://img.shields.io/badge/STABLE-00FF41?style=flat-square&labelColor=0D1117) | ✅ Stable |
-| [phishshield](https://github.com/Jos-zenith/phishshield) | Cybersecurity | TypeScript | ![](https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0D1117) | ✅ Online |
-| [soilsense](https://github.com/Jos-zenith/soilsense) | Agri-IoT | Vue | ![](https://img.shields.io/badge/ITERATING-00cfff?style=flat-square&labelColor=0D1117) | 🔵 Active |
-| [zero-touch](https://github.com/Jos-zenith/zero-touch) | Automation | Python | ![](https://img.shields.io/badge/UNDER__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
-| [intellect](https://github.com/Jos-zenith/intellect) | AI/ML | Python | ![](https://img.shields.io/badge/IN__DEV-f0a500?style=flat-square&labelColor=0D1117) | 🔄 Active |
-| [agentic-honey-pot](https://github.com/Jos-zenith/Agentic-Honey-Pot) | CyberSec | TypeScript | ![](https://img.shields.io/badge/RESEARCH-f0a500?style=flat-square&labelColor=0D1117) | 🔬 Lab |
+## Selected Work
 
----
+### 🧾 EazyLogs — Offline-first MSME operations
 
-## 🛠️ `[CORE_SKILLS]` — TERMINAL MANIFEST
+**Focus:** dependable business workflows for small businesses operating with limited connectivity.
 
-```yaml
-embedded_systems:
-  microcontrollers: [Arduino, ESP32, ARM Cortex-M]
-  proficiency:      "████████████ 100%"   # Full-Stack IoT hardware/firmware
+A product experiment around billing and day-to-day business operations, with offline data handling, optional synchronization, and a focus on preventing silent data overwrites.
 
-  cad_tools:        [NX, AutoCAD]
-  proficiency:      "██████████░░  80%"   # Mechanical & PCB design
+- Exploring the trade-offs between local-first workflows and multi-device consistency.
+- Prioritizing financial data integrity before expanding pilot usage.
 
-software_architecture:
-  languages:        [Python, C/C++, Java, SQL, HTML/CSS/JavaScript]
-  web_stack:        [React, Next.js, TypeScript, Flutter, Vue]
-  ml_tools:         [Jupyter, Google Colab, Kaggle, TensorFlow]
-  devops:           [Git, Linux, REST APIs, Cloud IoT Platforms]
-  methodology:      [Agile, Scrum, Sprint Planning, System Design]
+**[Open live prototype](https://eazylogs.vercel.app/)** · [Explore repositories](https://github.com/Jos-zenith?tab=repositories)
 
-domains:
-  - IoT & Embedded Systems
-  - Full-Stack Web Development
-  - Data Analytics & Pipelines
-  - Scalable Architecture
-  - Cybersecurity Fundamentals
-  - AI Integration & Agentic Systems
+### ❤️ VICT — Noisy single-lead ECG beat detection research
 
-spoken_languages:
-  English: "Professional"
-  Tamil:   "Native"
-  German:  "Elementary (A2)"
-```
+**Focus:** conservative inference under noisy physiological signals.
 
----
+A research prototype studying ventricular ectopic beat detection using signal processing and a lightweight machine-learning pipeline, with an embedded deployment target.
 
-## 📊 `[ANALYTICS]` — AUTO-SYNC DATA
+- Explores filtering, QRS detection, engineered beat features, and a linear SVM.
+- Emphasizes controlled evaluation, noise robustness, and the difference between offline results and real-device validation.
+- **Scope:** research prototype, not a clinically validated diagnostic or monitoring device.
 
-<div align="left">
+[Explore repositories](https://github.com/Jos-zenith?tab=repositories)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jos-zenith&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=aaffbb&ring_color=00FF41" alt="Zenith's GitHub Stats" />
+### 🌾 BlastWatch — Agricultural weather-risk monitoring
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-zenith&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=aaffbb" alt="Top Languages" />
+**Focus:** turning weather and crop context into actionable risk information.
 
-</div>
+A prototype combining weather signals, rice-growing geography, risk scoring, uncertainty, alerts, and an officer-oriented workflow.
 
+- Designed around risk monitoring and decision support.
+- Field validation is essential before making claims about predictive accuracy or real-world agricultural outcomes.
 
----
+[Explore repositories](https://github.com/Jos-zenith?tab=repositories)
 
-## 💼 `[EXPERIENCE_LOG]` — CAREER TIMELINE
+### 🎯 EngineerFit — Psychometric job profiling
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  2025.10 → NOW   Founder & Full-Stack Dev  @ Panjaayathu       │
-│                  Mental health platform targeting 1:7500         │
-│                  psychologist gap in Indian universities.        │
-├─────────────────────────────────────────────────────────────────┤
-│  2024.09 → 2026  Co-Founder & IoT Engineer @ ParkinToday       │
-│                  Real-time smart parking with IoT sensor nets,   │
-│                  cloud backend, and mobile interface.            │
-├─────────────────────────────────────────────────────────────────┤
-│  2024.02 → NOW   Team Captain & Mentor     @ Turbonites LICET  │
-│                  SAE India EV four-wheeler — Agile lead for     │
-│                  11+ months, embedded systems mentorship.        │
-├─────────────────────────────────────────────────────────────────┤
-│  2025.12 → 2026  Data Analytics Intern     @ Happieloop        │
-│                  Python/SQL dashboards & automated pipelines.    │
-├─────────────────────────────────────────────────────────────────┤
-│  2025.06 → 07    AI & Emerging Tech Intern @ Edunet Foundation │
-│                  Applied AI capstone — real-world integration.   │
-├─────────────────────────────────────────────────────────────────┤
-│  2026.03 → NOW   Core Team Member          @ Team STARC        │
-│                  Advanced system design & R&D for competitions.  │
-└─────────────────────────────────────────────────────────────────┘
-```
+**Focus:** making career matching more relevant to engineering students in Tier-2 and Tier-3 contexts.
+
+An early-stage concept exploring structured assessments and candidate-job fit beyond simple keyword matching.
+
+- Investigates assessment-driven candidate profiling and readiness signals.
+- Treats matching quality and real hiring outcomes as things to validate, not assume.
+
+[Explore repositories](https://github.com/Jos-zenith?tab=repositories)
+
+### 🅿️ ParkInToday — Smart parking product
+
+**Focus:** reducing the friction between finding a parking space and using it.
+
+A startup project exploring live occupancy, discovery, booking, navigation, digital payments, and parking-space monetization.
+
+- Developed around user pain points and market validation.
+- The long-term challenge is operational reliability across sensors, payments, parking operators, and real-world deployments.
+
+[Project overview](https://parkin-olive.vercel.app/) · [Explore repositories](https://github.com/Jos-zenith?tab=repositories)
+
+### 🔎 Trustify — Payment fraud detection concept
+
+**Focus:** identifying suspicious payment relationships and maintaining audit-friendly event records.
+
+A project exploring a hybrid fraud-detection approach, graph-based signals, event processing, and tamper-evident audit logging.
+
+[Explore repositories](https://github.com/Jos-zenith?tab=repositories)
 
 ---
 
-## 📡 `[NETWORK]` — CONNECT WITH THE NODE
+## Technical Toolkit
 
-<div align="left">
+**Languages**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Fzenith--joshua--7178a623a-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://www.linkedin.com/in/zenith-joshua-7178a623a)
-[![GitHub](https://img.shields.io/badge/GITHUB-Jos--zenith-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/Jos-zenith)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9037--5408-00FF41?style=for-the-badge&logo=orcid&logoColor=black&labelColor=0D1117)](https://orcid.org/0009-0005-9037-5408)
-[![Email](https://img.shields.io/badge/EMAIL-joshuajzenith%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:joshuajzenith@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-</div>
+**Web & application development**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## 📜 `[CERTS_DB]` — VERIFIED CREDENTIALS
+**AI/ML, data & systems**
 
-```yaml
-certifications:
-  - name:     "Foundations of Cybersecurity"
-    issuer:   "Google"
-    status:   "[VERIFIED ✓]"
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-  - name:     "Python 3.x Programming"
-    status:   "[VERIFIED ✓]"
+**Product & design**
 
-  - name:     "Java Basics"
-    status:   "[VERIFIED ✓]"
+`Product Discovery` · `User Research` · `Design Thinking` · `Agile / Scrum` · `Requirements` · `Metrics & Analytics` · `Figma` · `Notion` · `Jira` · `Postman`
 
-  - name:     "SQL Basics"
-    status:   "[VERIFIED ✓]"
+*Tools vary by project; this list reflects areas I've worked with or explored, not equal depth in every technology.*
 
-  - name:     "AI Impact Summit Buildathon"
-    type:     "Competitive"
-    status:   "[COMPLETED ✓]"
-```
+## Leadership & Milestones
+
+- 🏎️ **Team Captain — SAEISS EFWDC, Team Turbonites:** led a multidisciplinary team of 20+ in developing an electric four-wheeler; received **3rd place in the Chairman's Special Category for Best Design**.
+- 🌱 **LICET Pattarai:** involved in student-led building and mentoring around design-driven problem solving.
+- 🧪 **LICET Idea Cafe:** working on a structured, year-long journey from research questions to research proposals.
+- 🤖 **AI/ML Internship — IBM SkillsBuild & Edunet Foundation:** worked on exploratory data analysis, feature engineering, and model training.
+- 🚀 **Startup experience — ParkInToday:** explored user discovery, product direction, market validation, and the practical constraints of deploying a parking solution.
+
+## What I'm Working Toward
+
+- Building dependable, offline-capable software for real operating environments.
+- Making edge ML systems more measurable, resource-aware, and robust to noisy inputs.
+- Improving my product judgment through user evidence, clear metrics, and iterative experiments.
+- Turning prototypes into systems that can survive realistic testing—not just a presentation.
+
+## Let's Connect
+
+I'm interested in collaborating with people working on **applied AI, IoT, product engineering, developer tools, and practical research**.
+
+- 🌐 Portfolio: https://ejoszenith.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/zenithjoshua-7178a623a
+- 📬 Email: joshuajzenith@gmail.com
+- 💻 GitHub: https://github.com/Jos-zenith
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║    ZENITH_JOSHUA :: LICET :: CHENNAI_NODE :: CLASS OF 2027      ║
-║    34 REPOS INDEXED  ·  STATUS: ALL SYSTEMS NOMINAL  ·  🟢      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jos-zenith&style=for-the-badge&color=00FF41&labelColor=0D1117&label=NODES_VISITED)
+*Build with intent. Measure what matters. Be honest about what isn't proven yet.*
 
 </div>
-
-<!-- EOF :: ZENITH_JOSHUA_README_v2.0 -->
