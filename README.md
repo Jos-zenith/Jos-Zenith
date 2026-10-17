@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ejoszenith.vercel.app-4338ca?style=for-the-badge&logo=vercel&logoColor=white)](https://ejoszenith.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ejoszenith.vercel.app-4338ca?style=for-the-badge&logo=vercel&logoColor=white)](https://ejos-zenith.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenithjoshua-7178a623a)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuajzenith@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=Jos-zenith&label=Views&color=06b6d4&style=for-the-badge)
@@ -250,7 +250,7 @@ Open to collaborating on **applied AI, IoT, product engineering, developer tools
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4338ca?style=for-the-badge)](https://ejoszenith.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4338ca?style=for-the-badge)](https://ejos-zenith.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zenithjoshua-7178a623a)
 [![Email](https://img.shields.io/badge/📬_Email-EA4335?style=for-the-badge)](mailto:joshuajzenith@gmail.com)
 
